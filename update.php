@@ -1,7 +1,7 @@
 <?php
- $dsn = 'mysql:dbname=php_db_app;host=localhost;charset=utf8mb4';
- $user = 'root';
- $password = '';
+ $dsn = 'mysql:dbname=g9nocv5hyi6lmtcf;host=d5x4ae6ze2og6sjo.cbetxkdyhwsb.us-east-1.rds.amazonaws.com;charset=utf8mb4';
+ $user = 'nyl8dd9dgpdr6vys';
+ $password = 'vz7ddrv4go47y3oi';
  
  // submitパラメータの値が存在するとき（「更新」ボタンを押したとき）の処理
  if (isset($_POST['submit'])) {
